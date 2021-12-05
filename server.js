@@ -1,5 +1,3 @@
-server.js;
-
 const htmlRoutes = require('./routes/htmlRoutes');
 const apiRoutes = require('./routes/apiRoutes');
 const express = require('express');

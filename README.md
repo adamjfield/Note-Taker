@@ -30,6 +30,8 @@ To install necessary dependencies, run the following command:
 
 ![GIF](./assets/images/note-taker-demo.gif)
 
+[Link to Demo video](https://watch.screencastify.com/v/edFpyxqcEhsCmc6ZHz4g)
+
 <a name="usage"></a>
 
 ## Usage
